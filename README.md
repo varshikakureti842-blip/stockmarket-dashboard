@@ -3,6 +3,8 @@
 A real-time financial market analytics dashboard and machine learning forecasting engine for global equities, ETFs, and cryptocurrencies. Built entirely in Python with zero external paid APIs.
 
 > 📖 **Full System Architecture & Setup Guide:** See [`docs/COMPLETE_PROJECT_ARCH_AND_SETUP.md`](docs/COMPLETE_PROJECT_ARCH_AND_SETUP.md) for complete end-to-end documentation, terminal setup instructions, and chronological project records.
+> 
+> 🎓 **Zero-to-Hero Learning Guide (Terminology & Math):** See [`docs/ZERO_TO_HERO_LEARNING_GUIDE.md`](docs/ZERO_TO_HERO_LEARNING_GUIDE.md) to learn all financial, machine learning, and engineering terms from scratch.
 
 ---
 
